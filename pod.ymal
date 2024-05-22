@@ -29,3 +29,4 @@ spec:
         - name: hello
           image: firosop3636/weekendimage:latest
           imagePullPolicy: Always
+

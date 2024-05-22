@@ -27,5 +27,5 @@ spec:
     spec:
       containers:
         - name: hello
-          image: iammithran/weekendimage:latest
+          image: firosop3636/weekendimage:latest
           imagePullPolicy: Always
